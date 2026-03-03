@@ -1,4 +1,22 @@
-  
+Hi there, I'm Ritik! 👋
+
+I'm a passionate learner and an aspiring Full Stack Web Developer from India. I believe that pure hard work and consistency can beat any obstacle. Currently, I am building web projects and mastering coding concepts every single day, right from my mobile phone!
+
+🚀 What I'm currently doing:
+- Mastering the core of the web: HTML, CSS, and JavaScript.
+- Solving coding challenges and leveling up my problem-solving logic.
+- Building a strong foundation to crack a high-paying tech job in the future.
+
+💻 Tech Stack & Tools:
+- Frontend: HTML5, CSS3, JavaScript
+- Tools: GitHub, Mobile Code Editors
+
+⚡ Fun Fact: My day starts at 5:30 AM. I write my code before the sun comes up and before heading out for my daily physical field work. Dedication and discipline are my biggest superpowers! 
+
+
+
+
+
  <!DOCTYPE html>
 <html lang="hi">
 <head>
